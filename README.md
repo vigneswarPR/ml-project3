@@ -5,7 +5,7 @@ In this study, we employed decision tree and logistic regression algorithms to p
 Distinct datasets were utilized, for liver disease prediction, containing relevant clinical attributes. 
 Through rigorous experimentation and evaluation, our models demonstrated promising performance in identifying the presence of liver disease in individuals.
 
-Libraries:
+Libraries used:
 1) scikit-learn
    * GridSearchCV
    * preprocessing
